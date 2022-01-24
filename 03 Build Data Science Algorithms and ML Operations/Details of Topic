@@ -1,0 +1,14 @@
+Hey Developers,
+
+This section details all the points that this topic will cover
+
+1. Describe the differences between traditional programming and machine learning as well as no code, low code and visual programming
+2. Understand the process and available tools in Cloud Pak for data to build, deploy and monitor ML/AI algorithms
+3. Identify and explain how to collect, explore, and prepare data for ML/AI algorithms in Cloud Pak for Data
+4. Identify and explain how to build and deploy ML/AI algorithms in Cloud Pak for data
+5. Map business opportunities into a Data Science use case
+6. Describe the key considerations when selecting a platform for model deployment
+7. Explain the workflow of deploying and monitoring models
+8. Monitor deployed models inside Cloud Pak for Data
+9. Monitor machine learning models running on an external platform
+10. Manage risk and regulatory compliance using Open Pages
