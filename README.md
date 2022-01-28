@@ -1,4 +1,4 @@
-# Cloud Pak For Data
+# Cloud Pak For Data Learning Journey
 
 Labs -
 
